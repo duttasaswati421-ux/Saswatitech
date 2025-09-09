@@ -1,3 +1,4 @@
+//This code is devloped by Saswati
 //continue loop example
 #include <iostream>
 using namespace std;
@@ -9,4 +10,5 @@ int main ()
 	}
 	cout<<"Fire!\n";
 	return 0;
+
 }
